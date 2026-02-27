@@ -1,0 +1,36 @@
+{
+  "general": [
+    {
+      "concept": "GitHub Organization",
+      "amount": 0,
+      "currency": "USD",
+      "date": "2024-02-01",
+      "recurring": "monthly"
+    },
+    {
+      "concept": "Anthropic API (Claude)",
+      "amount": 45.20,
+      "currency": "USD",
+      "date": "2024-02-20",
+      "recurring": false
+    },
+    {
+      "concept": "Vercel Pro",
+      "amount": 0,
+      "currency": "USD",
+      "date": "2024-02-15",
+      "recurring": "monthly",
+      "note": "Free tier"
+    }
+  ],
+  "projects": {
+    "Portfolio Website": [
+      {
+        "concept": "Initial development - AI tokens",
+        "amount": 12.50,
+        "currency": "USD",
+        "date": "2024-02-27"
+      }
+    ]
+  }
+}
